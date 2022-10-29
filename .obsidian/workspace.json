@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "873a4ca2edd22921",
+    "type": "split",
+    "children": [
+      {
+        "id": "996ced16ba332a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d94122ba2453ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "音视频/hls & dash 简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df0ffbde377ef506",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3410caaf165ca646",
+    "type": "split",
+    "children": [
+      {
+        "id": "df8e930051200bbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb90645924a5c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "468ed18aaa72fa97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b18e75347aeae59b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fef2329d3b61d85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e81c17d36613644f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56df9bc371655b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b175b413e38a2d95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90d34993842bd71c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "955aea22a9bf1574",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eb90645924a5c3d1",
+  "lastOpenFiles": [
+    "音视频/hls & dash 简介.md",
+    "react 状态管理/XOID.md",
+    "README.md",
+    "react 状态管理/XOID.excalidraw.md",
+    "images/Pasted image 20221029140836.png",
+    "react 状态管理/XOID.excalidraw.png",
+    "Excalidraw/Drawing 2022-10-29 14.00.03.excalidraw.md"
+  ]
+}
