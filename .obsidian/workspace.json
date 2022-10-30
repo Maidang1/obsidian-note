@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe746f7b0dc4ceae",
+            "id": "23c3622c753809df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "随笔/Turbopack.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "随笔/Turbopack.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "随笔/Turbopack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "随笔/Turbopack.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe746f7b0dc4ceae",
+  "active": "23c3622c753809df",
   "lastOpenFiles": [
-    "daily/2022-10-30.md",
     "react 状态管理/XOID.md",
+    "随笔/001.md",
+    "音视频/hls & dash 简介.md",
+    "daily/2022-10-30.md",
     "2022-10-30.md",
     "001.md",
-    "音视频/hls & dash 简介.md",
     "README.md",
     "Excalidraw/Drawing 2022-10-29 17.43.07.excalidraw.md",
     "2022-10-29.md",
-    "react 状态管理/XOID.excalidraw.md",
-    "images/Pasted image 20221029140836.png"
+    "react 状态管理/XOID.excalidraw.md"
   ]
 }
