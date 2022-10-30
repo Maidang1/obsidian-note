@@ -67,11 +67,11 @@ Turbopack 是针对 JavaScript 和 TypeScript 优化的增量打包器，由 Ver
 
 # 拓展阅读
 
-[https://leerob.io/blog/rust](https://leerob.io/blog/rust) Rust Is The Future of JavaScript Infrastructure
-https://www.youtube.com/watch?v=NiknNI_0J48&t=2129s next conf
-[https://github.com/rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) rust 重写的 rollup
-[https://github.com/telecss/telecss](https://github.com/telecss/telecss) rust 写的 css 的 parser
-[https://github.com/parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) rust 写的 css 的 parser
-[https://github.com/marcj/TypeRunner](https://github.com/marcj/TypeRunner) c++ 实现的 type checker
-[https://github.com/dudykr/stc](https://github.com/dudykr/stc) rust 实现的 type checker
-[https://github.com/HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) rust 实现的 vue template compiler
+- [https://leerob.io/blog/rust](https://leerob.io/blog/rust) Rust Is The Future of JavaScript Infrastructure
+- https://www.youtube.com/watch?v=NiknNI_0J48&t=2129s next conf
+- [https://github.com/rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown) rust 重写的 rollup
+- [https://github.com/telecss/telecss](https://github.com/telecss/telecss) rust 写的 css 的 parser
+- [https://github.com/parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) rust 写的 css 的 parser
+- [https://github.com/marcj/TypeRunner](https://github.com/marcj/TypeRunner) c++ 实现的 type checker
+- [https://github.com/dudykr/stc](https://github.com/dudykr/stc) rust 实现的 type checker
+- [https://github.com/HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) rust 实现的 vue template compiler
