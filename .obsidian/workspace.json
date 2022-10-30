@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "996ced16ba332a2c",
+        "id": "3717280031d8f162",
         "type": "tabs",
         "children": [
           {
-            "id": "90d94122ba2453ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "音视频/hls & dash 简介.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df0ffbde377ef506",
+            "id": "fe746f7b0dc4ceae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -28,7 +16,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -57,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fef2329d3b61d85f",
@@ -94,12 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,17 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "eb90645924a5c3d1",
+  "active": "fe746f7b0dc4ceae",
   "lastOpenFiles": [
-    "音视频/hls & dash 简介.md",
+    "daily/2022-10-30.md",
     "react 状态管理/XOID.md",
+    "2022-10-30.md",
+    "001.md",
+    "音视频/hls & dash 简介.md",
     "README.md",
+    "Excalidraw/Drawing 2022-10-29 17.43.07.excalidraw.md",
+    "2022-10-29.md",
     "react 状态管理/XOID.excalidraw.md",
-    "images/Pasted image 20221029140836.png",
-    "react 状态管理/XOID.excalidraw.png",
-    "Excalidraw/Drawing 2022-10-29 14.00.03.excalidraw.md"
+    "images/Pasted image 20221029140836.png"
   ]
 }
